@@ -1,4 +1,4 @@
-# ki Sprint 43c: Baseline predictive models for the BEAN dataset
+# ki Sprint 43c: Predictive models for the BEAN dataset
 The code and result figures for sprint 43c are available in this repository. You'll have to bring your own data if you want to rerun the models.
 
 ## Installation Instructions
